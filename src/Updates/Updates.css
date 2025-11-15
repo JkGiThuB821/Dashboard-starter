@@ -1,0 +1,47 @@
+.Updates {
+width: 85%;
+background: white;
+border-radius: 0.7rem;
+margin-top: 2rem;
+padding: 1rem;
+gap: 1rem;
+flex-direction: column;
+display: flex;
+font-size: 13px;
+}
+
+.update{
+    display: flex;
+    gap: 0.5rem;
+}
+
+update >img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.noti>div>span:nth-of-type(1){
+    font-weight: bold;
+}
+
+.updateImg {
+  width: 2rem;
+  height: 2rem;
+  height: 2%;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.imgFix {
+  width: 3.2rem;
+  height: 3.2rem;
+  display: flex;
+  border-radius: 50%;
+}
+
+
+
