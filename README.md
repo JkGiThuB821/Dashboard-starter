@@ -2,6 +2,11 @@
 
 A modern, responsive React dashboard with real-time data visualization, order tracking, and analytics. Built with Framer Motion animations, ApexCharts, and Material-UI components.
 
+## Screenshots
+![Dashboard View](dashboard1.png)
+
+![Expanded Card View](dashboard2.png)
+
 ## Features
 
 **Key Features**
